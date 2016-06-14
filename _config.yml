@@ -10,9 +10,9 @@ title: Desenvolvimento Cross-Mobile Utilizando C#
 email: angelobelchior@hotmail.com
 description: > # Conteúdo especializado em Xamarin, iOS, Android, Windows Phone, Universal Apps, CSharp e desenvolvimento em geral
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://xamarinbr.gitgub.io" # the base hostname & protocol for your site
+url: "http://angelobelchior.gitgub.io" # the base hostname & protocol for your site
 twitter_username: angelobelchior
-github_username:  xamarinbr
+github_username:  angelobelchior
 
 # Build settings
 markdown: kramdown
