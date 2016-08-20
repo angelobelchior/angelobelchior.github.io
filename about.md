@@ -12,7 +12,7 @@ Meu nome é Angelo Luis mas muitos me conhecem por Angelo Belchior.
 
 Se você associou o nome _Belchior_ ao cantor, está completamente certo :) - Sim, sou fã!
 
-Sou desenvolvedor há mais de 10 anos e já participei de projetos Desktop, Web e agora Mobile utilizando Xamarin.
+Sou desenvolvedor há quase 15 anos e já participei de projetos Desktop, Web e agora Mobile utilizando Xamarin.
 
 Há um bom tempo venho contribuindo com a comunidade de desenvolvimento, e fui agraciado pela Microsoft como [MVP em Windows Platform](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis).
 
