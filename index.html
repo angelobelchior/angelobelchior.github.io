@@ -1,17 +1,31 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Angelo Belchior</title>
+    <title>To Do Avalonia App</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="/" />
+    <link rel="modulepreload" href="./main.js" />
+    <link rel="modulepreload" href="./dotnet.js" />
+    <link rel="modulepreload" href="./avalonia.js" />
+    <link rel="stylesheet" href="./app.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
 </head>
 
-<body>
-    <ul>
-        <li><a href="/TodoAvaloniaApp" target="_blank">To Do Avalonia App</a></li>
-    </ul>    
+<body style="margin: 0px; overflow: hidden">
+    <div id="out">
+        <div id="avalonia-splash">
+            <div class="center">
+                <h2 class="purple">
+                    My To Do App Powered by
+                    <a class="highlight" href="https://www.avaloniaui.net/" target="_blank">Avalonia UI</a>
+                </h2>
+            </div>
+            <img class="icon" src="Logo.svg" alt="Avalonia Logo" />
+        </div>
+    </div>
+    <script type='module' src="./main.js"></script>
 </body>
 
 </html>
